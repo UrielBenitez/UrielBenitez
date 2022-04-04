@@ -1,4 +1,4 @@
-<h1> Acerca de mi </h1>
+<h1><i> Acerca de mi </i></h1>
 
 <div>
 <details>
@@ -24,8 +24,11 @@
             <br>
                 <p>En el mejor de los casos me gustaria poder encontrar un trabajo relacionado con mis estudios, pero debido a la situacion de nuestro país cualquier trabajo es valioso. Pero como dije, me gustaria encontrar un trabajo como desarrollador web, ya sea para una empresa, o realizar proyectos independientes, por ejemplo, ofreciendo el servicio para gente que me necesite para un proyecto en específico.</p>
         </details>
+        </i>
         </div>
-    
+<br>
+<h3> <u><i>Para conocerme mas:</u></i> </h2>
+    <a href = "https://www.instagram.com/urielbenitezz/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30px" alt="Instagram personal" title="Instagram personal"></a>
 
 
 
