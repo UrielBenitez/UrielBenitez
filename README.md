@@ -1,4 +1,4 @@
-<h1><i> Acerca de mi </i></h1>
+<h1> Acerca de mi </h1>
 
 <div>
 <details>
@@ -7,7 +7,7 @@
             <p><i>Me llamo Uriel Benitez, soy de Berazategui, provincia de Buenos Aires, Argentina. Tengo 18 años, estudio en la <b>Escuela de Educación Técnica N°7</b>, más conocida como <a href = "https://www.impatrq.com/ ">IMPA</a>, en Quilmes.</p>
             <p>Tengo muchos pasatiempos, juego al voley, escucho musica, pero lo que más disfruto es jugar videojuegos con mis amigos. Desde chiquito, 8 años aproximadamente, me interesó todo lo relacionado con los videojuegos, el que más jugué en esa época fue el Counter Strike 1.6 (hoy en dia juego al Global Offensive) y el Age of Empires.</p>
             <p>Otra pasión que tengo ademas de los videojuegos son los deportes, amo jugar al futbol y al voley, no me gusta tanto verlos porque me desespera no poder jugar, pero los partidos de la selección no me los pierdo por nada.
-            </p>    
+            </p></i>    
  </details>
  </div>
     <div>
@@ -27,7 +27,7 @@
         </i>
         </div>
 <br>
-<h3> <u><i>Para conocerme mas:</u></i> </h2>
+<h3> <u>Para conocerme mas:</u> </h2>
     <a href = "https://www.instagram.com/urielbenitezz/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30px" alt="Instagram personal" title="Instagram personal"></a>
 
 
