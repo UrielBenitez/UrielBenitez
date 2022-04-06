@@ -14,15 +14,15 @@
     <details>
         <summary><b>¿Qué quiero estudiar?</b></summary>
         <br>
-            <p>Siempre fue un tema que me costó, hoy en día creo que lo tengo un poco más claro, pero el camino sigue estando medio nublado. Estos ultimos años del colegio (olvidé decirlo, estudio la especialidad de Técnico Aviónico) me di cuenta que las materias que más me gustan son las que interviene algun tipo de programación, ya sea en <b>Python</b>, en <b>C</b>, en <b>Arduino</b>, etc. Este tipo de materias me gustan pero se me hacen dificiles por igual, pero aún así intento poder entender.</p>
-            <p>A lo que quiero llegar es lo siguiente, hace poco empecé a pensar en estudiar algo relacionado con la programación una vez termine el colegio, y la carrera que más me llama la atencion por ahora es la de desarrollo web, ya que estoy intentando aprender <b>HTML</b> y <b>CSS</b> por mi cuenta mediante cursos gratis en linea.</p>
+            <p><i>Siempre fue un tema que me costó, hoy en día creo que lo tengo un poco más claro, pero el camino sigue estando medio nublado. Estos ultimos años del colegio (olvidé decirlo, estudio la especialidad de Técnico Aviónico) me di cuenta que las materias que más me gustan son las que interviene algun tipo de programación, ya sea en <b>Python</b>, en <b>C</b>, en <b>Arduino</b>, etc. Este tipo de materias me gustan pero se me hacen dificiles por igual, pero aún así intento poder entender.</p>
+            <p>A lo que quiero llegar es lo siguiente, hace poco empecé a pensar en estudiar algo relacionado con la programación una vez termine el colegio, y la carrera que más me llama la atencion por ahora es la de desarrollo web, ya que estoy intentando aprender <b>HTML</b> y <b>CSS</b> por mi cuenta mediante cursos gratis en linea.</p></i>
     </details>
     </div>
         <div>
         <details>
             <summary><b>¿De qué me gustaría trabajar?</b></summary>
             <br>
-                <p>En el mejor de los casos me gustaria poder encontrar un trabajo relacionado con mis estudios, pero debido a la situacion de nuestro país cualquier trabajo es valioso. Pero como dije, me gustaria encontrar un trabajo como desarrollador web, ya sea para una empresa, o realizar proyectos independientes, por ejemplo, ofreciendo el servicio para gente que me necesite para un proyecto en específico.</p>
+                <p><i>En el mejor de los casos me gustaria poder encontrar un trabajo relacionado con mis estudios, pero debido a la situacion de nuestro país cualquier trabajo es valioso. Pero como dije, me gustaria encontrar un trabajo como desarrollador web, ya sea para una empresa, o realizar proyectos independientes, por ejemplo, ofreciendo el servicio para gente que me necesite para un proyecto en específico.</p>
         </details>
         </i>
         </div>
